@@ -1,0 +1,72 @@
+* {
+    
+}
+
+/* navbar*/
+.d-flex{
+    margin: 0.5rem;
+}
+
+
+
+/*login modal css*/
+.modal-dialog {
+    height: 50%;
+}
+
+.modal-content {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.modal-header {
+    justify-content: center;
+    text-align: center;
+}
+
+
+/*sign up modal css*/
+.sign-modal {
+    height: 85%;
+}
+
+/* contact page style */
+.contact-form {
+    margin: 2rem;
+}
+
+.Contact-Container {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    flex-wrap: wrap;
+}
+
+.contact-img {
+    height: 35rem;
+    width: 35rem;
+    margin: 2rem;
+}
+
+/*chiens page*/
+.body-of-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+}
+
+.articles {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.articles .card {
+    display: flex;
+
+    margin: 2rem;
+}
+
